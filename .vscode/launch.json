@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-MiPrimeraApiApplication<MiPrimeraAPI>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.PrimeraAPITest.MiPrimeraAPI.MiPrimeraApiApplication",
+            "projectName": "MiPrimeraAPI",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
